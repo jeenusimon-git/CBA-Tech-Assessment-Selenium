@@ -1,5 +1,5 @@
 
-# CBA Interview - Selenium automation 
+# Selenium automation 
 
 ## The Tech Stack used is as below
 1. Java
